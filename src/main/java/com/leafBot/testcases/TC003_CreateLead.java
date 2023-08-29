@@ -11,7 +11,7 @@ public class TC003_CreateLead extends ProjectSpecificMethods{
 	@BeforeTest
 	public void setData() {
 		testCaseName="TC003_CreateLead";
-		testDescription="Create a new Lead on LeafTaps";
+		testDescription="Create a New Lead on LeafTaps Application";
 		nodes = "Leads";		
 		dataSheetName="TC003";
 		category="Smoke";
